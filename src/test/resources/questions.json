@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "tags": [
+        "html"
+      ],
+      "owner": {
+        "user_id": 3,
+        "user_type": "registered",
+        "profile_image": "profile_image",
+        "display_name": "display_name",
+        "link": "link"
+      },
+      "is_answered": true,
+      "view_count": 1,
+      "bounty_amount": 250,
+      "bounty_closes_date": 1576085452,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1575487095,
+      "creation_date": 1575307766,
+      "question_id": 1,
+      "link": "link",
+      "title": "title"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9973
+}
